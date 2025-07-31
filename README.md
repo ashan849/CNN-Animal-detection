@@ -28,7 +28,7 @@ The CNN model (`AnimalCNN`) consists of:
 
 ## 📁 Dataset
 
-- Custom image dataset with 3 categories (e.g., cat, dog, elephant)  
+- Custom image dataset with 3 categories (e.g., cat, dog, snake)  
 - Organized into:
   - `train/`
   - `val/`
@@ -36,6 +36,7 @@ The CNN model (`AnimalCNN`) consists of:
 - Images are resized and normalized for training
 
 > **Note**: The dataset folder structure should follow PyTorch’s `ImageFolder` format.
+```bash
 
 ---
 
