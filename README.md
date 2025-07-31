@@ -41,20 +41,19 @@ Full code, training notebook, and model weights are available at:
 > **Note**: The dataset folder structure should follow PyTorch’s `ImageFolder` format.
 ```bash
 
----
-
-## 🚀 Getting Started
-
 ### 🔧 Requirements
+Make sure you have the following installed:
 
 - Python 3.8+
 - PyTorch
 - torchvision
 - matplotlib
 - scikit-learn
-- PIL
+- Pillow (PIL)
 
-Install requirements with:
+You can install all dependencies using pip:
 
 ```bash
 pip install torch torchvision matplotlib scikit-learn pillow
+```
+
