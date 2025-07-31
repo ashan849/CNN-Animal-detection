@@ -22,7 +22,7 @@ The CNN model (`AnimalCNN`) consists of:
 - Convolutional layers with ReLU activation
 - MaxPooling for spatial downsampling
 - Fully connected (linear) layers
-- `Softmax` for final classification output
+
 
 ---
 
