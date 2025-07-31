@@ -34,7 +34,7 @@ The CNN model (`AnimalCNN`) consists of:
   - `val/`
   - `test/`
 - Images are resized and normalized for training
-- 
+   
 Full code, training notebook, and model weights are available at:
 [https://github.com/YourUsername/AnimalDetection_CNN](https://github.com/YourUsername/AnimalDetection_CNN)
 
