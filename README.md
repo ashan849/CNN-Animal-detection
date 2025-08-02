@@ -10,7 +10,7 @@ This project implements a Convolutional Neural Network (CNN) in PyTorch to class
 - Built with **PyTorch**
 - Custom CNN model trained to classify **3 animal classes**
 - Includes **training & validation accuracy/loss plots**
-- Evaluates test images using a pre-trained model
+- Evaluates test images using the random images (Googleimages like)
 - Easy-to-follow **Jupyter Notebook** format
 
 ---
